@@ -1,8 +1,3 @@
-client_id,client_name,email,password,initial_investment,investment_date
-1,Karim A.,karim@example.com,pass123,10000,2024-01-15
-2,Yasmine H.,yasmine@example.com,pass123,25000,2024-03-01
-3,Mehdi L.,mehdi@example.com,pass123,5000,2024-07-22
-4,yani boumrar,yani002009@live.fr,temp8218,1000,2025-09-30
-5,yaniboumrar,yanib25@outlook.com,ibtissamMV25,10000,2000-10-01
-6,yaniboumrar,yanib25@outlook.com,temp4900,10000,2000-10-01
-7,wdcw,yani002009@live.fr,temp4108,1000,2025-09-09
+email,password,client_name,initial_investment
+demo@example.com,password123,Demo Client,10000
+test@example.com,password123,Test Client,5000
